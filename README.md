@@ -8,3 +8,6 @@ scikit-learn
 
 ## running the program
 python visualize.py
+
+will likely take many seconds to finish running since it'll run on your cpu
+
