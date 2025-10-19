@@ -3,7 +3,7 @@ A machine learning cache policy, comparing performance against traditional algor
 
 # Samples:
 ![first graph](./graphs/graph1.png)
-
+![second graph](./graphs/graph2.png)
 
 
 
