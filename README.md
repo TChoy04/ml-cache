@@ -2,7 +2,7 @@
 A machine learning cache policy, comparing performance against traditional algorithms (LRU, LFU, ARC) under Zipfian workloads using Python and scikit-learn
 
 # Samples:
-![first graph](./graphs/graph1)
+![first graph](./graphs/graph1.png)
 
 
 
