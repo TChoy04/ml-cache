@@ -7,7 +7,7 @@ matplotlib
 scikit-learn
 
 ## running the program
-python visualize.py
+```python visualize.py```
 
 Will likely take many seconds to finish running since it'll run on your cpu
 
