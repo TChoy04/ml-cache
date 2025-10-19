@@ -1,5 +1,6 @@
 # Machine Learning Cache
 A machine learning cache policy, comparing performance against traditional algorithms (LRU, LFU, ARC) under Zipfian workloads using Python and scikit-learn.
+</br>
 We can observe from the graphs below that the traditional caching policies generally hit relatively stable hit rates under Zipfian workloads which is expected due to their skewed access patterns. However, the machine learning cache shows much higher variance, initially matching or surpassing the other policies but can experience sharp drops in hit rate. These fluctuations suggest that while the machine learning cache can learn and exploit short term access patterns, it is extremely sensitive to change. 
 
 # Samples:
